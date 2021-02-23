@@ -1,4 +1,5 @@
 // Insertion + Removal + Size: O(1) time complexity
+// Like a linked list
 
 module.exports =
   class Queue {
